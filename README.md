@@ -1,8 +1,8 @@
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **Unity**
 
-- 💬 Ask me about **Mobile App**
+- 💬 Ask me about **Game Developer**
 
 - 📫 How to reach me **polatcangurbuz@gmail.com**
 
